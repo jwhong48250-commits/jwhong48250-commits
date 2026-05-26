@@ -1,8 +1,8 @@
 # 🚀 안녕하세요, AI 엔지니어 홍정우입니다!
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=180&section=header&text=Hong%20Jung-Woo&fontSize=50&fontColor=ffffff" width="100%" />
-</p>
+</p> -->
 
 > **"제조 및 인테리어 디자인에서 AI 엔지니어로의 전환, 풀사이클 역량으로 비즈니스 가치를 창출합니다."** > 1,100시간의 집중 교육을 통해 파이썬 데이터 전처리부터 컴퓨터 비전, 자연어 처리(NLP), 생성형 AI(RAG 및 멀티에이전트 시스템)까지 아우르는 탄탄한 기술력을 다졌습니다. 스스로 판단하고 문제를 해결하는 인공지능 기술로 세상에 기여하고자 합니다.
 
